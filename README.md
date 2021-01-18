@@ -1,16 +1,19 @@
 # Project : SQL Zoo
 
-> SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. Some of the queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real head scratchers.
+> SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables.
+Each tutorial will show you a table and then have you run queries against it to answer specific questions. Some of the
+queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real
+head scratchers.
 
-## Taiwo Adetona
+## Authors
+- Abeid Ahmed
+  - GitHub: [@abeidahmed](https://github.com/abeidahmed)
+  - Twitter: [@iamhawaabi](https://twitter.com/iamhawaabi)
+  - LinkedIn: [Abeid Ahmed](https://www.linkedin.com/in/abeid-ahmed-b21882172/)
 
-- GitHub: [@taiwo2](https://github.com/taiwo2)
-- Twitter: [@TaiwoAdetona4](https://twitter.com/TaiwoAdetona4)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/taiwo-waliyullahi-adetona-988898180/)
+## Contributing
 
-## :thumbsup: Contributing
-
-1. Fork it (<https://github.com/taiwo2/sqlZoo.git/fork>)
+1. Fork the project (`https://github.com/abeidahmed/sql-zoo.git`)
 2. Create your feature branch (`git checkout -b <branch-name>`)
 3. Commit your changes (`git commit -m "Descriptive change"`)
 4. Push to the branch (`git push -u origin <branch-name>`)
@@ -20,10 +23,6 @@
 
 Give a :star: if you like this project!
 
-## Acknowledgments
-
-- Odin's Project Positioning Lessons
-
-## :page_with_curl: License
+## License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
